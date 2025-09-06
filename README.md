@@ -15,6 +15,12 @@ _A modern, full-stack e-commerce platform with sleek design, headless CMS, and s
 
 ---
 
+<p align="center">
+  <img src="./screenshots/homepage.png" alt="Shopping Adda Preview" width="900"/>
+</p>
+
+---
+
 ## 🚀 Features
 
 - ✅ **Modern UI/UX** – Built with Tailwind CSS + Framer Motion  
@@ -101,6 +107,30 @@ _A modern, full-stack e-commerce platform with sleek design, headless CMS, and s
     ├── sanity/                 # Schemas & queries
     ├── store/                  # Zustand state
     └── public/                 # Static files
+
+---
+
+## 📸 Screenshots  
+
+### 🏠 Homepage  
+<p align="center">
+  <img src="./screenshots/homepage.png" alt="Homepage" width="800"/>
+</p>
+
+### 📱 Mobile View  
+<p align="center">
+  <img src="./screenshots/mobileScreen.png" alt="Mobile Screen" width="400"/>
+</p>
+
+### 🛒 Shopping Cart  
+<p align="center">
+  <img src="./screenshots/myBasket.png" alt="My Basket" width="800"/>
+</p>
+
+### 📦 My Orders  
+<p align="center">
+  <img src="./screenshots/myOrders.png" alt="My Orders" width="800"/>
+</p>
 
 ---
 
