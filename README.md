@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./app/favicon.ico" alt="Shopping Adda Logo" width="120"/>
+</p>
+
 # 🛍️ Shopping Adda  
 _A modern, full-stack e-commerce platform with sleek design, headless CMS, and secure payments._
 
@@ -51,7 +55,7 @@ _A modern, full-stack e-commerce platform with sleek design, headless CMS, and s
 
 1️⃣ Clone the repository  
 
-    git clone https://github.com/your-username/shopping-adda.git
+    git clone https://github.com/sujal-chauhan/ShoppingAdda.git
     cd shopping-adda
 
 2️⃣ Install dependencies  
@@ -142,4 +146,4 @@ _A modern, full-stack e-commerce platform with sleek design, headless CMS, and s
 
 ---
 
-✨ Made with ❤️ by [Your Name](https://github.com/your-username)  
+⚡ Crafted with code, coffee & creativity - [Sujal Chauhan](https://github.com/your-username)  
