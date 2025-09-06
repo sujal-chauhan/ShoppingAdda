@@ -23,7 +23,6 @@ _A modern, full-stack e-commerce platform with sleek design, headless CMS, and s
 - ✅ **Shopping Cart** – Real-time cart management with Zustand  
 - ✅ **Payment Processing** – Stripe integration for checkout  
 - ✅ **Responsive Design** – Works across devices  
-- ✅ **Dark Mode** – Built-in theme switching  
 
 ---
 
@@ -146,4 +145,4 @@ _A modern, full-stack e-commerce platform with sleek design, headless CMS, and s
 
 ---
 
-⚡ Crafted with code, coffee & creativity - [Sujal Chauhan](https://github.com/your-username)  
+⚡ Crafted with code, coffee & creativity - [Sujal Chauhan](https://github.com/sujal-chauhan)  
