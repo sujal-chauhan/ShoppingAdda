@@ -175,4 +175,4 @@ _A modern, full-stack e-commerce platform with sleek design, headless CMS, and s
 
 ---
 
-⚡ Crafted with code, coffee & creativity - [Sujal Chauhan](https://github.com/sujal-chauhan)  
+## ⚡ Crafted with code, coffee & creativity by - [Sujal Chauhan](https://github.com/sujal-chauhan)  
